@@ -262,7 +262,7 @@ td.num {
 
 /*IMAGENS*/
 figure {
-    transform: translate(35%, 0px);
+    transform: translate(20px, 0px);
     margin: 10px 10px 30px 10px;
     width: 200px;
     height: 200px;
